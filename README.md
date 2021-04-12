@@ -1,3 +1,4 @@
+### :wave: I'm Jake Xie
 <!--
 **xiejiajun/xiejiajun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +15,5 @@ Here are some ideas to get you started:
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=xiejiajun&show_icons=true" alt="logo" height="160" align="left" style="margin: 10px; margin-bottom: 20px;" />
 
-### :wave: I'm Jake Xie
+
 <img src="https://github-profile-trophy.vercel.app/?username=xiejiajun&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
